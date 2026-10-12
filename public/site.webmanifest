@@ -1,0 +1,10 @@
+{
+  "name": "ANBU Educational Academy",
+  "short_name": "ANBU Academy",
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#254d3b",
+  "background_color": "#fffdf8",
+  "display": "standalone"
+}
